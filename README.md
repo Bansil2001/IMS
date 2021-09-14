@@ -1,4 +1,4 @@
-# Inventory Management System(IMS)
+# Python Project
 This repository is having all the codes used in AI/ML Skill India Scholarship by Elite Techno Groups.
 The inventory management system which is made sellers job simple and fast. In this Python project so many features are included.
 
